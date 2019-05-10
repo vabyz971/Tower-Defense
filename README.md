@@ -6,8 +6,16 @@
 
 ## comment exporter le projet
 
-Crée un projet vide sur Unity avec la version demander,
-Puis cloner le répertoire à la racine de votre projet.
-Une fois tout cela fais, entré dans le assets/Scene puis sur ZoneDev
-Vous seriez sur la scène de test de mon projet.
-Les script ce trouve dans le dossier script.
+Pour récupérer mon Project il vous faudra [UnityHub](https://store.unity.com/fr/download?ref=personal),
+
+## # Installer la version d'unity demander
+
+![](md_img/Hub_installe_U.PNG)
+
+## # Puis clicker sur Open en haus à doits
+
+![](md_img/Hub_Add_P.PNG)
+
+## # Et sélectioner le dossier cloner
+
+![](md_img/Hub_Add_D.PNG)
